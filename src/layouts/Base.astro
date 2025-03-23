@@ -28,9 +28,31 @@ const {
 		>
 			<Header />
 			<slot />
+
+			<!-- ✅ Custom buttons with same style as 'Get template' -->
+			<div class="z-100 fixed bottom-10 mt-16 flex flex-row flex-wrap gap-4">
+				<!-- Download My CV Button -->
+				<a
+					href="/cv-download.pdf"
+					target="_blank"
+					class="inline-flex items-center gap-x-2 rounded-3xl border border-input bg-secondary px-10 py-2 text-sm text-primary shadow-sm transition-all hover:shadow-md dark:shadow-black/50 hover:dark:shadow-white/30"
+				>
+					📄 <span class="text-lg font-bold">Download My CV</span>
+				</a>
+
+				<!-- Contact Me Button -->
+				<a
+					href="mailto:amine.elzerg@hotmail.com"
+					class="inline-flex items-center gap-x-2 rounded-3xl border border-input bg-secondary px-10 py-2 text-sm text-primary shadow-sm transition-all hover:shadow-md dark:shadow-black/50 hover:dark:shadow-white/30"
+				>
+					📬 <span class="text-lg font-bold">Contact Me</span>
+				</a>
+			</div>
+
 			<div class="w-full text-primary-foreground">
 				<Footer />
 			</div>
 		</main>
 	</body>
 </html>
+
