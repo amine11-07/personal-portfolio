@@ -34,7 +34,7 @@ experience:
       - Developed an internal Data Catalog for efficient data reuse.
   - title: Biomedical Engineer Intern
     company: Clinique Turin
-    logo : /src/assets/clinique-turin-logo.png
+    logo : /clinique-turin-logo.png
     location: Paris, France
     dateRange: Sept. 2022 - Feb. 2023
     description:
@@ -44,14 +44,14 @@ experience:
 education:
   - title: Advanced Master's Degree
     company: CentraleSupélec
-    logo : /src/assets/centralesupelec-logo.png
+    logo : /centralesupelec-logo.png
     location: Paris, France
     dateRange: Sept. 2024 - Sept. 2025
     description:
       - DeepTech, Innovation, Entrepreneurship, Product & Business Strategy
   - title: Bachelor's Degree - "Grandes Écoles" Track
     company: Université Paris-Dauphine, PSL
-    logo : /src/assets/dauphine-logo.png
+    logo : /dauphine-logo.png
     location: Paris, France
     dateRange: Jul 2023 - Jul 2024
     description:
@@ -59,7 +59,7 @@ education:
       - Relevant courses - Public Economics, International Economics, Microeconomics, Portfolio Management, Econometrics, Macroeconomics
   - title: Master of Engineering (MEng) - Biomedical Engineering
     company: Université de Technologie de Compiègne (UTC)
-    logo : /src/assets/utc-logo.png
+    logo : /utc-logo.png
     location: Compiègne, France
     dateRange: Sept 2021 - Sept 2024
     description:
@@ -70,7 +70,7 @@ education:
       - Exchange Semester (2023 - 2024) at Université du Québec à Chicoutimi (UQAC), Canada with GPA 4.20/4.0 Courses -  Neural Networks, Data Structures, Project Management
   - title: Preparatory Class PCSI/PC
     company: Lycée Chaptal
-    logo : /src/assets/chaptal-logo.png
+    logo : /chaptal-logo.png
     location: Paris, France
     dateRange: Sept 2019 - Sept 2021
     description:
