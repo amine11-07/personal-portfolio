@@ -1,0 +1,108 @@
+---
+
+name: Amine El zerg
+position: DataOps Project Manager @Owkin
+email: amine.elzerg@hotmail.com
+phone: +33 6 10 52 45 41
+linkedin: https://www.linkedin.com/in/amine-el-zerg
+website: google.de
+github: https://github.com/amine11-07
+twitter: https://twitter.com/
+location: Paris, France
+birthday: 11th July 2001
+summary: >
+  I'm a biomedical engineer by training, currently completing an advanced master’s degree in Innovation and Entrepreneurship at CentraleSupélec. Passionate about the intersection of AI, healthcare, and product development, I thrive in R&D environments where technology meets real-world medical challenges. At Owkin, I’ve led high-impact projects across medical data access, AI deployment, and strategic product operations—contributing to drug discovery efforts through data-driven insights and cross-functional collaboration. I bring an entrepreneurial mindset, a strong ability to learn fast and build systems from scratch, and a drive to bridge technical innovation with strategic impact in the healthcare and life sciences industries.
+experience:
+  - title: DataOps Project Manager (Apprenticeship)
+    company: Owkin
+    logo: /src/assets/owkin-logo.png
+    location: Paris, France
+    dateRange: Sept. 2024 - Sept. 2025
+    description:
+      - Managed data access workflows to deliver high-quality, AI-ready patient data.
+      - Led end-to-end project management for high-profile biomedical data projects.
+      - Spearheaded Notion CRM implementation, boosting team productivity by 30%.
+      - Conducted strategic analytics to forecast data collection timelines.
+  - title: DataOps Project Manager Intern
+    company: Owkin
+    logo: /src/assets/owkin-logo.png
+    location: Paris, France
+    dateRange: Feb. 2024 – August 2024
+    description:
+      - Streamlined biomedical data contracting workflows, reducing delays by 25%.
+      - Redesigned reporting frameworks to enhance transparency and decision-making.
+      - Developed an internal Data Catalog for efficient data reuse.
+  - title: Biomedical Engineer Intern
+    company: Clinique Turin
+    logo : /src/assets/clinique-turin-logo.png
+    location: Paris, France
+    dateRange: Sept. 2022 - Feb. 2023
+    description:
+      - Optimized maintenance processes for 2,400 medical devices, reducing costs by 12%.
+      - Engineered Python-based predictive analytics for proactive equipment management.
+      - Provided technical and clinical support across key departments.
+education:
+  - title: Advanced Master's Degree
+    company: CentraleSupélec
+    logo : /src/assets/centralesupelec-logo.png
+    location: Paris, France
+    dateRange: Sept. 2024 - Sept. 2025
+    description:
+      - DeepTech, Innovation, Entrepreneurship, Product & Business Strategy
+  - title: Bachelor's Degree - "Grandes Écoles" Track
+    company: Université Paris-Dauphine, PSL
+    logo : /src/assets/dauphine-logo.png
+    location: Paris, France
+    dateRange: Jul 2023 - Jul 2024
+    description:
+      - Pursued in parallel with my engineering studies to strengthen my understanding of economic and financial principles relevant to business/product strategy and decision-making.
+      - Relevant courses - Public Economics, International Economics, Microeconomics, Portfolio Management, Econometrics, Macroeconomics
+  - title: Master of Engineering (MEng) - Biomedical Engineering
+    company: Université de Technologie de Compiègne (UTC)
+    logo : /src/assets/utc-logo.png
+    location: Compiègne, France
+    dateRange: Sept 2021 - Sept 2024
+    description:
+      - Specialization in Biomedical Engineering | GPA 3.9/4.0 (Honors from Jury)
+      - Biomedical Data, AI & Engineering - Signal Processing, Machine Learning (Python), Medical Sensors & Instrumentation, Medical Imaging, Electrical Engineering
+      - Biology & R&D - Physiology of Integrated Systems, Biochemistry, Oncology & Immunology | Research at BMBI Laboratory (Biomécanique et Bioingénierie)
+      - Product & Project Management - Agile Methods, Tech Roadmapping, Business Model Innovation, Product-Market Fit, Data-Driven Decision Making
+      - Exchange Semester (2023 - 2024) at Université du Québec à Chicoutimi (UQAC), Canada with GPA 4.20/4.0 Courses -  Neural Networks, Data Structures, Project Management
+  - title: Preparatory Class PCSI/PC
+    company: Lycée Chaptal
+    logo : /src/assets/chaptal-logo.png
+    location: Paris, France
+    dateRange: Sept 2019 - Sept 2021
+    description:
+      - A post-secondary two-year program in advanced mathematics and physics leading to nationwide entrance examinations to the French Grandes Ecoles for scientific studies.
+projects:
+  - title: AI-Based Sound Recognition for assistive technologies (Python, Deep Learning)
+    description: Collaborated with lab researchers (Dan Istrate & Vincent Zalc) to develop a sound classification system designed to assist elderly residents in retirement homes by detecting danger sounds (e.g., falls, distress calls, alarms) and triggering alerts for caregivers.
+    href: https://www.utc.fr/recherche/des-chaires-denseignement-et-de-recherche/une-chaire-sur-les-outils-biomedicaux/
+    imagePath: /src/assets/project-1.png
+  - title: ATLANTIS Project (Owkin) - Multimodal Data Mapping Initiative
+    description: Participated in the development of ATLANTIS, a multimodal data mapping initiative to streamline data access and mapping across multiple medical data sources, enabling faster AI model deployment and data-driven insights for drug discovery.
+    href: https://www.owkin.com/newsfeed/owkin-launches-atlantis-an-extensive-multimodal-data-mapping-initiative
+    imagePath: /src/assets/atlantis.jpg
+skills:
+  Programming & Data Analytics:
+    - Python
+    - R
+    - SQL
+    - MATLAB
+  Project Management:
+    - Agile
+    - Scrum
+    - Jira
+    - Workflow automation
+  Learning :
+    - Fast-paced & efficient learning
+certifications:
+  - issuer: ETS
+    name: "Test of English for International Communication (TOEIC) - Score : 985/990"
+    issued: Aug 2023
+    href: https://www.etsglobal.org/fr/en/digital-score-report/42D716E2F490834D083AB07D71A471958C4693E29CB97DA08937918A3D56ED15enlFcndWVkdLU1dsd2ZvL2w5akFKd0p2VS9rblRiU0UrSU9qeGhkcllRNlVsMWlZ
+  - issuer: Coursera - Deep Teaching Solutions
+    name: "Learning How to Learn: Powerful mental tools to help you master tough subjects"
+    issued: Jan 2025
+    href: https://www.coursera.org/learn/learning-how-to-learn

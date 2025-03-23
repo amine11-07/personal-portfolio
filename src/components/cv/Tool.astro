@@ -1,0 +1,68 @@
+---
+import Section from "../Section.astro";
+import ToolSection from "../Tools.astro";
+
+const DESIGN = [
+	{
+		name: 'Figma',
+		description: 'Design Tool',
+		href: 'https://www.figma.com/',
+		iconPath: 'figma',
+		iconBgColour: '#000001'
+	}
+];
+
+const PRODUCTIVITY = [
+	{
+		name: 'Arc',
+		description: 'Browser',
+		href: 'https://arc.net/',
+		iconPath: 'arc',
+		iconBgColour: '#414350'
+	},
+	{
+		name: 'Notion',
+		description: 'Note Taking',
+		href: 'https://www.notion.so/product',
+		iconPath: 'notion',
+		iconBgColour: '#EFEFEE'
+	},
+	{
+		name: 'Zapier',
+		description: 'Automation Tool',
+		href: 'https://zapier.com/',
+		iconPath: 'zapier',
+		iconBgColour: '#7A3EE8'
+	}
+];
+
+const DATA_ANALYTICS = [
+	{
+		name: 'Salesforce',
+		description: 'CRM & Data Analytics',
+		href: 'https://www.salesforce.com/fr/?ir=1',
+		iconPath: 'salesforce',
+		iconBgColour: '#2C2C32'
+	},
+	{
+		name: 'Tableau',
+		description: 'Data Visualization',
+		href: 'https://www.tableau.com/',
+		iconPath: 'tableau',
+		iconBgColour: '#06A67F'
+	},
+	{
+		name: 'Excel',
+		description: 'Spreadsheet & Analysis',
+		href: 'https://www.microsoft.com/en-us/microsoft-365/excel',
+		iconPath: 'excel',
+		iconBgColour: '#06A67F'
+	}
+];
+---
+<Section id="tools" title="Tools">
+    <p class="text-muted-foreground">Tools and software I use to build whatever I like</p>
+    <ToolSection title="Data Analytics" tools={DATA_ANALYTICS} />
+    <ToolSection title="Design" tools={DESIGN} />
+    <ToolSection title="Productivity" tools={PRODUCTIVITY} />
+</Section>

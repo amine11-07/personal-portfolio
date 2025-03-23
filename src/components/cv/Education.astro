@@ -1,0 +1,30 @@
+---
+import Card from '../Card.astro';
+import Section from '../Section.astro';
+import data from '../../data.yaml';
+import { Content } from '@/types';
+---
+
+<Section id="education" title="Education">
+	{data.education.map((item: Content) => (
+		<Card
+			class="flex w-full flex-col gap-x-7 gap-y-1 bg-background-secondary p-5 text-secondary-foreground"
+			heading=""
+			subheading={item.title}
+			date={item.dateRange}
+		>
+			<div class="flex justify-between items-center mb-2">
+				<h3 class="text-lg font-semibold">{item.company}</h3>
+				{item.logo && (
+					<img src={item.logo} alt={`${item.company} logo`} class="h-8 w-auto ml-4" />
+				)}
+			</div>
+
+			<ul class="ml-4 list-disc text-muted-foreground">
+				{item.description.map((bullet) => (
+					<li>{bullet}</li>
+				))}
+			</ul>
+		</Card>
+	))}
+</Section>
